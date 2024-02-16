@@ -1,0 +1,18 @@
+html{
+    font-size: 80%;
+    font-family: Arial, sans-serif;
+}
+.box{
+    background-color: rgb(22, 166, 250);
+    margin: 2rem auto;
+    padding: 1rem;
+    max-width: 30rem;
+
+}
+h1{
+    margin: 0 0 2rem;
+    font-size: 1.5rem;
+}
+button{
+    padding: .5rem 2rem;
+}

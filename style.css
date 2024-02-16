@@ -1,0 +1,50 @@
+h1{
+    color: blue;
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    font-size: 50px;
+}
+h2.name{
+color: brown;
+}
+div ul li{
+    color: darkmagenta;
+}
+ul li{
+    color: mediumslateblue;
+}
+.mydiv{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+}
+p{padding: 25px;}
+.x{
+    border-width: 50px;
+    border-style: solid;
+    border-color: black;
+    width: 10px;
+    height: 1px;
+}
+.y{
+    border-width: 50px;
+    border-style: solid;
+    border-color: red green orange black;
+    width: 10px;
+    height: 10px;
+}
+.z{
+    border-width: 50px;
+    border-style: solid;
+    border-color: red green orange black;
+    width: 5px;
+    height: 5px;
+}
+.l{
+    border-width: 50px;
+    border-style: solid;
+    border-color: white white white orange;
+    width: 5px;
+    height: 5px;
+}
